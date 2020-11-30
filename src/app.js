@@ -14,5 +14,6 @@ const jsx= (
        <AppRouter/>
     </Provider>
 )
+console.log('Git unsatged stages checking')
 
 ReactDOM.render(jsx, document.getElementById('app'));
